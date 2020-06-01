@@ -1,0 +1,7 @@
+The code was taken from this library for RaspberryPi
+
+from:
+// #include "wiringPi.h" 
+// #include "wiringSerial.h"
+
+gcc -o ./serial_port_C ./serial_port_C.cpp
